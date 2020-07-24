@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (CameraWritter.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.cpp
+c:\opencv\build\install\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CameraWritter.vcxproj -> C:\Users\ISEC01\Desktop\opencv_cpp\CameraWriter\x64\Debug\CameraWriter.exe

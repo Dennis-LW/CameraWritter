@@ -1,0 +1,16 @@
+{
+        "fCid": 10,
+        "fSid": 4,
+        "fTaxID": "06112131",
+        "fComputerID": null,
+        "fName": "test01",
+        "fNumber": "admin",
+        "fPwd": "123",
+        "fIpAddress": "140.125.85.27:554",
+        "StartTime": "0800",
+        "EndTime": "0100",
+        "fCreateDate": "20200204133633",
+        "fEditDate": "20200204153747",
+        "fEditUser": "Admin",
+        "fIsPublish": 0
+    }
