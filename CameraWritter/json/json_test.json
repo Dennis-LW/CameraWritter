@@ -6,7 +6,7 @@
         "fName": "test01",
         "fNumber": "admin",
         "fPwd": "123",
-        "fIpAddress": "140.125.85.27:554",
+        "fIpAddress": "192.168.0.188:554",
         "StartTime": "0800",
         "EndTime": "0100",
         "fCreateDate": "20200204133633",
